@@ -1,2 +1,1 @@
-# React JS Shopping Cart
- In this Repository, we have created a Shopping Cart website using React JS and Bootstrap
+![React-Shopping Cart_Cover](https://github.com/codewith-vaibhav/React-JS-Shopping-Cart/assets/155068508/a04dca1a-8fe0-4bc8-a095-02a555decf42)
